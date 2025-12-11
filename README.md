@@ -103,11 +103,14 @@ temple.html
 
 ## OUTPUT
 
-<img width="1280" height="615" alt="image" src="https://github.com/user-attachments/assets/47dbd425-c5e4-461b-8d53-59cf44925479" />
+![tvmalai](https://github.com/user-attachments/assets/924919b2-d301-4594-a3e8-5b98a92f0bff)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a83b9bad-3f7f-41fe-b0e6-2f2635e573ef" />
+<img width="1212" height="572" alt="image" src="https://github.com/user-attachments/assets/0160577d-6fdf-42ad-a155-8159c7b32e3b" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/524b2c97-b53b-41a8-af9d-bf6ca42d93f1" />
+<img width="1210" height="572" alt="image" src="https://github.com/user-attachments/assets/75a67b67-ff21-4ff3-ae56-ed3cec9bbbe6" />
+
+
+
 
 
 
