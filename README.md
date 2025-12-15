@@ -38,7 +38,7 @@ map.html
 
     <h3 align="center"><font color="blue"><b>K.Sundaresh (25006077)</b></font></h3>
 
-    <img src="map.png" usemap="#MyCity" height="800" width="1550">
+    <img src="Screenshot 2025-12-15 112205.png" usemap="#MyCity" height="800" width="1550">
 
     <map name="MyCity">
         <area target="_blank" alt="hometown" title="hometown" href="home.html" coords="1128,637,906,561" shape="rect">
@@ -103,7 +103,8 @@ temple.html
 
 ## OUTPUT
 
-![tvmalai](https://github.com/user-attachments/assets/924919b2-d301-4594-a3e8-5b98a92f0bff)
+<img width="1881" height="957" alt="Screenshot 2025-12-15 112515" src="https://github.com/user-attachments/assets/c800a216-c135-4bbe-8e78-d9c90a6f31bc" />
+
 
 <img width="1212" height="572" alt="image" src="https://github.com/user-attachments/assets/0160577d-6fdf-42ad-a155-8159c7b32e3b" />
 
