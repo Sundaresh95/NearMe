@@ -36,7 +36,7 @@ map.html
 <body>
     <h1 align="center"><font color="red"><b>TIRUVANNAMALAI</b></font></h1>
 
-    <h3 align="center"><font color="blue"><b>Madhupriya R(212224040177)</b></font></h3>
+    <h3 align="center"><font color="blue"><b>K.Sundaresh (25006077)</b></font></h3>
 
     <img src="map.png" usemap="#MyCity" height="800" width="1550">
 
